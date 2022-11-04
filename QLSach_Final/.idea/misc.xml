@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/activity_lien_he.xml" value="0.25" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/activity_phan_loai.xml" value="0.36666666666666664" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/activity_san_pham.xml" value="0.36666666666666664" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/activity_tra_cuu_phan_loai.xml" value="0.36666666666666664" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/activity_tra_cuu_sach.xml" value="0.36666666666666664" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/layout_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/didonggk/TestMap/QLSach_Fixed/app/src/main/res/layout/layout_item_loaisach.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

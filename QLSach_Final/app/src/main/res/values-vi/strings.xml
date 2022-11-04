@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý sách</string>
+    <string name="s_DangNhap">ĐĂNG NHẬP VÀO QUẢN LÝ SÁCH</string>
+    <string name="s_tk">Tài khoản:</string>
+    <string name="s_mk">Mật khẩu:</string>
+    <string name="s_ghinho">Ghi nhớ đăng nhập</string>
+    <string name="s_btndn">Đăng nhập</string>
+    <string name="s_masach">Mã sách:</string>
+    <string name="s_tensach">Tên sách:</string>
+    <string name="s_theloai">Thể loại:</string>
+    <string name="s_tacgia">Tác giả:</string>
+    <string name="s_nhaxuatban">NXB:</string>
+    <string name="s_luu">Lưu</string>
+    <string name="maloai">Mã loại:</string>
+    <string name="tenloai">Tên loại:</string>
+    <string name="suatt">Sửa thông tin</string>
+    <string name="xoatt">Xóa thông tin</string>
+    <string name="sach">Sách</string>
+    <string name="loaisach">Thể loại</string>
+    <string name="tt">Liên hệ</string>
+    <string name="thoat">Thoát</string>
+    <string name="title_activity_lien_he">LIÊN HỆ</string>
+    <string name="hoten">Họ tên:</string>
+    <string name="lop">Lớp:</string>
+    <string name="mssv">MSSV:</string>
+    <string name="sdt">SĐT:</string>
+    <string name="email">Địa chỉ mail:</string>
+    <string name="ten">Trần Hí Đường</string>
+    <string name="D">D18_TH13</string>
+    <string name="dh">DH51804542</string>
+    <string name="phome">0938110932</string>
+    <string name="mail">tranhiduong@gmail.com</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="goi">Gọi</string>
+</resources>

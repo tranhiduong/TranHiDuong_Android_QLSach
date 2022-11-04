@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Book Management</string>
+    <string name="s_DangNhap">WELLCOME TO BOOK MANAGEMENT PLEASE LOGNIN</string>
+    <string name="s_tk">Usermane:</string>
+    <string name="s_mk">Password:</string>
+    <string name="s_ghinho">Remember Me</string>
+    <string name="s_btndn">Login</string>
+    <string name="s_masach">Id:</string>
+    <string name="s_tensach">Name:</string>
+    <string name="s_theloai">Category:</string>
+    <string name="s_tacgia">Author:</string>
+    <string name="s_nhaxuatban">Publisher:</string>
+    <string name="s_luu">Save</string>
+    <string name="maloai">Category Id:</string>
+    <string name="tenloai">Category Name:</string>
+    <string name="suatt">Edit information</string>
+    <string name="xoatt">Delete information</string>
+    <string name="sach">Book</string>
+    <string name="loaisach">Book Category</string>
+    <string name="tt">About</string>
+    <string name="thoat">Exit</string>
+    <string name="title_activity_lien_he">ABOUT</string>
+    <string name="hoten">Name:</string>
+    <string name="lop">Class:</string>
+    <string name="mssv">Student ID:</string>
+    <string name="sdt">Phone Number:</string>
+    <string name="email">Mail:</string>
+    <string name="ten">Tran Hi Duong</string>
+    <string name="D">D18_TH134</string>
+    <string name="dh">Dh51804542</string>
+    <string name="phome">0938110932</string>
+    <string name="mail">tranhiduong@gmail.com</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="goi">Call</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuSach"
+        android:title="@string/sach"
+        />
+    <item
+        android:id="@+id/mnuLoaiSach"
+        android:title="@string/loaisach"/>
+
+    <item
+        android:id="@+id/mnuThongTin"
+        android:title="@string/tt"
+        />
+    <item
+        android:id="@+id/mnuThoat"
+        android:title="@string/thoat"/>
+</menu>
